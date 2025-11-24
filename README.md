@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## proyecto final git ADSO
 Integrante
 Juan José Castañeda Portela
@@ -51,3 +52,7 @@ Hoy aprendí a configurar un repositorio local y conectarlo correctamente con Gi
 También entendí cómo funcionan los comandos básicos de Git, cómo crear commits y cómo manejar errores de autenticación.
 Me quedó mucho más claro el flujo de trabajo profesional y cómo usar VS Code junto con Git Bash.
 A pesar de los errores iniciales, ahora comprendo mejor el proceso y tengo más confianza usando Git y GitHub.
+=======
+# taller-git-github
+taller de git y github - taller final
+>>>>>>> 8a7ed6efb2e8a9b68ee065af6b1012cfce2e5be1
