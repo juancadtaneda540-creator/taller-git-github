@@ -1,0 +1,12 @@
+TAREAS PENDIENTES:
+- Pendiente 1
+- Pendiente 2
+- Pendiente 3
+
+TAREAS REALIZADAS:
+- Realizada 1
+- Realizada 2
+
+TAREAS BLOQUEADAS:
+- Bloqueada 1
+- Bloqueada 2
