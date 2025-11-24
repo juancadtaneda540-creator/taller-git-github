@@ -1,1 +1,1 @@
-notas iniciales
+Notas del estudiante A
